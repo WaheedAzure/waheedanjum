@@ -1,4 +1,4 @@
-<?php include("../images/_include/header.php"); ?>
+<?php include("_include/header.php"); ?>
 
 
 <!-- /Post Content -->
@@ -197,4 +197,4 @@
 </section>
 
 
-<?php include("../images/_include/footer.php"); ?>
+<?php include("_include/footer.php"); ?>
