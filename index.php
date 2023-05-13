@@ -1,4 +1,4 @@
-<?php include("../_include/header.php"); ?>
+<?php include("_include/header.php"); ?>
 
 <section class="section">
 	<div class="container">

@@ -1,4 +1,4 @@
-<?php include("../_include/header.php"); ?>
+<?php include("_include/header.php"); ?>
 
 <div style="margin-top: -50px;"></div>
 <!-- /Post Content -->
