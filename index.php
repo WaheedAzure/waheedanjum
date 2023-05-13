@@ -1,4 +1,4 @@
-<?php include("_include/header.php"); ?>
+<?php include("../images/_include/header.php"); ?>
 
 <section class="section">
 	<div class="container">
@@ -8,21 +8,24 @@
 				<article class="row mb-5">
 					<div class="col-12">
 						<div class="post-slider">
-							<img loading="lazy" src="images/post/post-1.jpg" class="img-fluid" alt="post-thumb">
+							<img loading="lazy" src="images/aad/aad-sync.png" class="img-fluid" alt="post-thumb">
 						</div>
 					</div>
 					<div class="col-12 mx-auto">
-						<h3><a class="post-title" href="#">Cheerful Loving Couple Bakers Drinking Coffee</a></h3>
+						<h3><a class="post-title" href="#">Synchronizing Local Windows Active Direcory to Azure Active Directory</a></h3>
 						<ul class="list-inline post-meta mb-4">
-							<li class="list-inline-item"><i class="ti-user mr-2"></i><a href="author.html">John Doe</a>
+							<li class="list-inline-item"><i class="ti-user mr-2"></i><a href="#">Waheed Anjum</a>
 							</li>
-							<li class="list-inline-item">Date : March 14, 2020</li>
-							<li class="list-inline-item">Categories : <a href="#!" class="ml-1">Photography </a>
+							<li class="list-inline-item">Date : May 15, 2023</li>
+							<li class="list-inline-item">Categories : <a href="#!" class="ml-1">Azure Active Directory </a>
 							</li>
-							<li class="list-inline-item">Tags : <a href="#!" class="ml-1">Photo </a> ,<a href="#!" class="ml-1">Image </a>
+							<li class="list-inline-item">Tags : <a href="#!" class="ml-1">AAD Synchronization </a> ,<a href="#!" class="ml-1">Local AD </a>
 							</li>
 						</ul>
-						<p>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</p> <a href="#" class="btn btn-outline-primary">Continue Reading</a>
+						<p>XZY Co., Ltd. is a well-known company in the automotive industry that specializes in supplying customers with 
+                  quality automobiles. The company wants to move its IT infrastructure to the Microsoft Azure cloud. The main 
+                  challenge is synchronizing on-premises Active Directory objects to Azure AD using the <strong>Azure AD Connect</strong> agent. This 
+                  company has its XXXXX users, </p> <a href="aad-sync.php" class="btn btn-outline-primary">Continue Reading</a>
 					</div>
 				</article>
 				
@@ -92,7 +95,7 @@
 				   <!-- Search -->
    <div class="widget">
       <h5 class="widget-title"><span>Search</span></h5>
-      <form action="/logbook-hugo/search" class="widget-search">
+      <form action="https://www.waheedanjum.eu/search" class="widget-search">
          <input id="search-query" name="s" type="search" placeholder="Type &amp; Hit Enter...">
          <button type="submit"><i class="ti-search"></i>
          </button>
@@ -186,4 +189,4 @@
 
 
 
-<?php include("_include/footer.php"); ?>
+<?php include("../images/_include/footer.php"); ?>

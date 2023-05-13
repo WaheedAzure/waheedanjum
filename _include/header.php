@@ -62,11 +62,11 @@
                   <a class="nav-link" href="#">Security</a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="#">Transformaion</a>
+                  <a class="nav-link" href="#">Transformation</a>
                </li>
                <li class="nav-item dropdown">
                   <a class="nav-link" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-                     aria-expanded="false">Products <i class="ti-angle-down ml-1"></i>
+                     aria-expanded="false">CTRL + O <i class="ti-angle-down ml-1"></i>
                   </a>
                   <div class="dropdown-menu">
                      <a class="dropdown-item" href="aad-sync.php">Azure AD</a>
@@ -100,3 +100,5 @@
    </div>
 </header>
 <!-- /navigation -->
+
+<div style="margin-top: -20px;"></div>

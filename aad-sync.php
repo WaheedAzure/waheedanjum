@@ -1,6 +1,6 @@
-<?php include("_include/header.php"); ?>
+<?php include("../images/_include/header.php"); ?>
 
-<div style="margin-top: -50px;"></div>
+
 <!-- /Post Content -->
 
 <section class="section">
@@ -195,6 +195,6 @@
 		</article>
 	</div>
 </section>
-<div style="margin-top: -70px;"></div>
 
-<?php include("_include/footer.php"); ?>
+
+<?php include("../images/_include/footer.php"); ?>

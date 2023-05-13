@@ -1,11 +1,14 @@
+<div style="margin-top: -50px;"></div>
+
+
    <footer class="section-sm pb-0 border-top border-default">
       <div class="container">
          <div class="row justify-content-between">
             <div class="col-md-3 mb-4">
                <a class="mb-4 d-block" href="index.php">
-                  <img class="img-fluid" width="235px" src="images/logo.png" alt="Waheed Anjum">
+                  <img class="img-fluid" width="250px" src="images/logo.png" alt="Waheed Anjum">
                </a>
-               <p>As Cloud architects, we are specialized in modern transformation strategies, cloud solutions and cloud migration, 
+               <p align="justify">As Cloud architects, we are specialized in modern transformation strategies, cloud solutions and cloud migration, 
                   helping organizations to move their on-premises infrastructure to the cloud for improved efficiency, 
                   agility, and scalability.</p>
             </div>
@@ -13,20 +16,20 @@
             <div class="col-lg-2 col-md-3 col-6 mb-4">
                <h6 class="mb-4">Quick Links</h6>
                <ul class="list-unstyled footer-list">
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Contact</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-                  <li><a href="#">Terms Conditions</a></li>
+                  <li><a href="about.php">About</a></li>
+                  <li><a href="contact.php">Contact</a></li>
+                  <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                  <li><a href="terms-conditions.php">Terms Conditions</a></li>
                </ul>
             </div>
 
             <div class="col-lg-2 col-md-3 col-6 mb-4">
                <h6 class="mb-4">Social Links</h6>
                <ul class="list-unstyled footer-list">
-                  <li><a href="#">facebook</a></li>
-                  <li><a href="#">twitter</a></li>
-                  <li><a href="#">linkedin</a></li>
-                  <li><a href="#">github</a></li>
+                  <li><a href="#">Facebook</a></li>
+                  <li><a href="#">Twitter</a></li>
+                  <li><a href="#">Linkedin</a></li>
+                  <li><a href="#">Github</a></li>
                </ul>
             </div>
 
@@ -45,7 +48,7 @@
             <a href="javascript:void(0);" id="scrollTop"><i class="ti-angle-up"></i></a>
          </div>
          <div class="text-center">
-            <p class="content">&copy; 2023 - Design &amp; Develop By <a href="#" target="_blank">Waheed Anjum</a></p>
+            <p class="content">&copy; 2023 - Design &amp; Develop By <a href="https://www.waheedanjum.eu/" target="_blank">Waheed Anjum</a></p>
          </div>
       </div>
    </footer>
