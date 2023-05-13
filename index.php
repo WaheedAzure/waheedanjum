@@ -186,4 +186,4 @@
 
 
 
-<?php include("../images/_include/footer.php"); ?>
+<?php include("_include/footer.php"); ?>
