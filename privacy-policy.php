@@ -1,4 +1,4 @@
-<?php include("../images/_include/header.php"); ?>
+<?php include("_include/header.php"); ?>
 
 
 <section class="section-sm">
@@ -51,4 +51,4 @@ At <b><a href="https://www.waheedanjum.eu/">www.waheedanjum.eu</a></b>, we are c
 
 
 
-<?php include("../images/_include/footer.php"); ?>
+<?php include("_include/footer.php"); ?>
